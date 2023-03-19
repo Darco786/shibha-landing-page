@@ -9,7 +9,7 @@ function Navbar() {
            
         <div className='text-white d-flex align-items-center gap-4 logo-bx'>
             <img src={Logo} alt=""/>
-            <p className='logo-text'>SHAIBA</p>
+            <p className='logo-text'>shAIba</p>
         </div>
         <div className='text-white'>
             <a href="/" className='chat-btn' >CHAT BOT <span className='tele-btn'><BsTelegram/></span> </a>
