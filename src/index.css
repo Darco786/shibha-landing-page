@@ -239,3 +239,92 @@ a {
     margin-left: 54px;
 
 }
+
+@media (max-width:768px) {
+  .main-bg {
+    background-image: url("../src/assets/mob/mob.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2%;
+  
+    border-radius: 35px;
+  }
+  .lig-3{
+    display: none;
+  }
+  .logo-txt2{
+    font-size: 37px;
+    font-weight: 600;
+    padding-right: 7rem;
+    padding-left: 1rem;
+    line-height: 78px;
+    padding-top: 6rem;
+    padding-bottom: 9.4rem;
+  }
+  .box-hero {
+    background-image: url(../src/assets/mob/mob-hero.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .hero-btns {
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -34%;
+    z-index: 8;
+}
+
+.lig-2 {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 17%;
+}
+
+.nft-sec {
+  padding-top: 65px;
+  padding-bottom: 2rem;
+}
+.com{
+  margin-left: 13%;
+}
+
+.chat-btn {
+  position: absolute;
+  right: 11px;
+
+  padding: 2px 11px;
+
+  font-size: 11px;
+ 
+  margin-top: -36px;
+
+}
+
+.tele-btn {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.lig-4 {
+display: none;
+}
+.logo-text {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;}
+
+  .logo-bx {
+    position: relative;
+    margin-left: -187px;
+ gap: 4px !important;
+    margin-top: -37px;
+}
+
+.pt-10{
+  padding-top: 2rem;
+}
+}
