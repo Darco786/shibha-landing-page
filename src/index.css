@@ -212,6 +212,7 @@ a {
   position: absolute;
   margin-left: 37%;
   margin-top: -22%;
+  z-index: 8;
 }
 
 .lig-1 {
@@ -230,4 +231,11 @@ a {
   position: absolute;
   margin-top: -36px;
   margin-left: 18%;
+}
+
+.lig-3{
+  position: absolute;
+    z-index: 4;
+    margin-left: 54px;
+
 }

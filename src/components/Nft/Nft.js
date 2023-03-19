@@ -26,7 +26,7 @@ function Nft() {
                 <img src={Nft2} alt=""/>
                 <div className='d-flex gap-5 btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
-                            <img src={Line} alt="" className='line-b'/>
+                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ function Nft() {
                 <img src={Nfts} alt="" style={{padding: '15px'}}/>
                 <div className='d-flex gap-5 btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
-                            <img src={Line} alt="" className='line-b'/>
+                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ function Nft() {
                 <img src={Nft3} alt="" style={{padding: '10px'}}/>
                 <div className='d-flex gap-5 btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
-                            <img src={Line} alt="" className='line-b'/>
+                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
                         </div>
                     </div>
                 </div>

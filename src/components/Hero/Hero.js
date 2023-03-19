@@ -9,7 +9,7 @@ import Mask from '../../assets/circle.svg'
 function Hero() {
   return (
     <section className="hero-sect">
- {/* <img src={Mask} alt="" className="lig-3"/> */}
+ <img src={Mask} alt="" className="lig-3"/>
       <div className="container">
         <div className="row align-items-center">
           <div className="col-md-8 ">
