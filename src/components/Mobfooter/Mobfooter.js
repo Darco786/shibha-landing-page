@@ -1,7 +1,9 @@
 import React from 'react'
 import Logo from '../../assets/logo.png'
-import {FaTelegramPlane,FaFacebookSquare} from 'react-icons/fa'
+import {FaTelegramPlane,FaFacebookSquare,FaTwitter} from 'react-icons/fa'
 import {RiRecordCircleLine} from 'react-icons/ri'
+import {SiGitbook} from  'react-icons/si'
+import Light from '../../assets/mob/light.png'
 function Mobfooter() {
   return (
     <section className='footer pt-10'>
@@ -14,11 +16,17 @@ function Mobfooter() {
     <a href="/"><FaTelegramPlane/></a>
     <a href="/"><RiRecordCircleLine/></a>
     <a href="/"><FaFacebookSquare/></a>
+    <a href="/"><FaTwitter/></a>
     <a href="/"><FaTelegramPlane/></a>
     <a href="/"><FaTelegramPlane/></a>
-    <a href="/"><FaTelegramPlane/></a>
-    <a href="/"><FaTelegramPlane/></a>
+    <a href="/"><SiGitbook/></a>
 
+</div>
+<div className='text-center'>
+<img src={Light} alt="" className="lig"/>
+<div>
+    <p className='text-white'>© 2023 | SHAIBA |s All Rights Reserved</p>
+</div>
 </div>
         </div>
     </section>
