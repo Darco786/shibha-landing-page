@@ -239,6 +239,9 @@ a {
     margin-left: 54px;
 
 }
+.footer{
+  display: none;
+}
 
 @media (max-width:768px) {
   .main-bg {
@@ -348,5 +351,8 @@ font-size: 18px;
 .lig{
   margin-left: -7px;
     width: auto;
+}
+.footer{
+  display: block;
 }
 }
