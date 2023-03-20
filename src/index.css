@@ -263,7 +263,7 @@ a {
     padding-left: 1rem;
     line-height: 78px;
     padding-top: 6rem;
-    padding-bottom: 9.4rem;
+    padding-bottom: 14.4rem;
   }
   .box-hero {
     background-image: url(../src/assets/mob/mob-hero.png);
@@ -325,7 +325,7 @@ display: none;
 
   .logo-bx {
     position: relative;
-    margin-left: -141px;
+    margin-left: -165px;
  gap: 4px !important;
     margin-top: -37px;
 }
