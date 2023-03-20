@@ -7,7 +7,7 @@ function Navbar() {
         
         <div className="d-flex align-items-center justify-content-center pt-25">
            
-        <div className='text-white d-flex align-items-center gap-4 logo-bx'>
+        <div className='text-white d-flex align-items-center  logo-bx'>
             <img src={Logo} alt=""/>
             <p className='logo-text'>shAIba</p>
         </div>

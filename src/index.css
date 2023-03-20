@@ -53,6 +53,7 @@ html {
 .logo-bx {
   position: relative;
   margin-left: 13px;
+  gap:1.rem;
 }
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 .chat-btn {
@@ -285,7 +286,9 @@ a {
   margin-top: 5px;
   margin-left: 17%;
 }
-
+.nft {
+  text-align: center;
+}
 .nft-sec {
   padding-top: 65px;
   padding-bottom: 2rem;
@@ -318,15 +321,18 @@ display: none;
   font-family: "Orbitron";
   font-style: normal;
   font-weight: 600;
-  font-size: 18px;}
+  font-size: 12px;}
 
   .logo-bx {
     position: relative;
-    margin-left: -187px;
+    margin-left: -141px;
  gap: 4px !important;
     margin-top: -37px;
 }
-
+.logo-bx img{
+  width: auto;
+  height: 20px;
+}
 .pt-10{
   padding-top: 2rem;
 }
