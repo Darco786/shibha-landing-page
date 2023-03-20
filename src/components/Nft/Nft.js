@@ -46,7 +46,7 @@ function Nft() {
                 <img src={Nft3} alt="" style={{padding: '10px'}}/>
                 <div className='d-flex gap-5 btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
-                            <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
+                            <img src={Line} alt="" className='line-b' style={{marginLeft:'11px' ,marginTop:'6px'}}/>
                         </div>
                     </div>
                 </div>
