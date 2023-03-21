@@ -41,10 +41,10 @@ img{
   color: #ffffff;
 }
 .logo-bx img{
-  width: 51px;
+  width: 100px;
 }
 .pt-25 {
-  padding-top: 25px;
+  padding-top: 5px;
 }
 .hero-box {
   background: rgba(0, 0, 0, 0.13);
@@ -58,8 +58,8 @@ img{
 
 .logo-bx {
   position: relative;
-  margin-left: 13px;
-  gap:1.45rem;
+  margin-left: 10px;
+
 }
 .pt-left{
   padding-left: 2rem !important;
