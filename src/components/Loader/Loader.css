@@ -31,6 +31,7 @@
     border-radius: 50%;
     position: relative;
     perspective: var(--size);
+    overflow: hidden;
   }
   .rings:before, .rings:after {
     content: "";
@@ -176,8 +177,6 @@
     height: 100vh;
     width: 100vw;
     background: radial-gradient(at center, #111, black);
+    overflow: hidden;
   }
   
-  body {
-    color: #eea3f7;
-  }
