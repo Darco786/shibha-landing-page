@@ -251,9 +251,10 @@ a {
 
 .lig-3{
   position: absolute;
-    z-index: 2;
-    margin-left: 105px;
-    overflow: hidden;
+  z-index: 2;
+  margin-left: 28px;
+  height: 59%;
+  overflow: hidden;
 
 }
 .footer{
