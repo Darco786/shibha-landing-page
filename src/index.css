@@ -35,12 +35,14 @@ img{
   font-family: "Orbitron";
   font-style: normal;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 36px;
   line-height: 40px;
   margin-bottom: 0px;
   color: #ffffff;
 }
-
+.logo-bx img{
+  width: 51px;
+}
 .pt-25 {
   padding-top: 25px;
 }
