@@ -20,6 +20,14 @@ function Hero() {
               Revolutionizing the crypto world with shAIba
              
             </h1>
+            {/* <h1 className="logo-txt logo-txt2 text-6xl">
+              Revolutionizing the crypto world with shAIba
+             
+            </h1>
+            <h1 className="logo-txt logo-txt2 text-6xl">
+              Revolutionizing the crypto world with shAIba
+             
+            </h1> */}
             <div className="d-flex gap-4 hero-btns">
                 <a href="/" className="buy">Buy</a>
 

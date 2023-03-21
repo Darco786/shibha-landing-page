@@ -9,7 +9,9 @@ function Navbar() {
            
         <div className='text-white d-flex align-items-center  logo-bx'>
             <img src={Logo} alt=""/>
-            <p className='logo-text'>shAIba</p>
+            <h1 className='logo-text'>shAIba</h1>
+            {/* <p className='logo-text'>shAIba</p>
+            <p className='logo-text'>shAIba</p> */}
         </div>
         <div className='text-white'>
             <a href="/" className='chat-btn' >CHAT BOT <span className='tele-btn'><BsTelegram/></span> </a>
