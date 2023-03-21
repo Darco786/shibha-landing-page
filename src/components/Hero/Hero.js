@@ -12,7 +12,8 @@ function Hero() {
  <img src={Mask} alt="" className="lig-3"/>
       <div className="container-fluid pt-left">
         <div className="row align-items-center">
-          <div className="col-md-7 ">
+          <div className="col-md-7 " data-aos="fade-right"
+     data-aos-offset="300">
           <img src={Light} alt="" className="lig-2"/>
             <img src={HBox} alt='new' className="hb-b"/>
             <div className="box-hero">
@@ -36,7 +37,8 @@ function Hero() {
             </div>
           </div>
           <div className="col-md-1"></div>
-          <div className="col-md-4">
+          <div className="col-md-4" data-aos="fade-left"
+     data-aos-offset="300">
           <div className="hero-box">
             <img src={Light} alt="" className="lig-1"/>
             <p>
