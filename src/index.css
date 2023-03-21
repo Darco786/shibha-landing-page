@@ -147,7 +147,7 @@ a {
   align-items: center;
   position: absolute;
 
-  margin-left: 6%;
+  margin-left: 4%;
   margin-top: -10px;
 }
 .com p {
@@ -175,7 +175,9 @@ a {
 }
 .hb-b {
   position: absolute;
-  width: 55.9%;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
 .nft-btn {
   background: rgba(0, 0, 0, 0.22);
@@ -225,7 +227,7 @@ a {
 .lig-2 {
   position: absolute;
   margin-top: 53px;
-  margin-left: 34%;
+  margin-left: 27%;
 }
 
 .lig-4 {
@@ -236,8 +238,8 @@ a {
 
 .lig-3{
   position: absolute;
-    z-index: 4;
-    margin-left: 95px;
+    z-index: 2;
+    margin-left: 105px;
     overflow: hidden;
 
 }
