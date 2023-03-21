@@ -21,7 +21,7 @@ function App() {
       loading ?
      <Loadar/>
       :
-      <div>
+      <div data-aos="zoom-out" data-aos-duration="1500">
     <div className='main-bg' >
        <img src={Light} alt="" className="lig-4"/>
       <Navbar/>
