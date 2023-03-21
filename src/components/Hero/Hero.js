@@ -10,14 +10,14 @@ function Hero() {
   return (
     <section className="hero-sect">
  <img src={Mask} alt="" className="lig-3"/>
-      <div className="container">
+      <div className="container-fluid pt-left">
         <div className="row align-items-center">
-          <div className="col-md-8 ">
+          <div className="col-md-7 ">
           <img src={Light} alt="" className="lig-2"/>
             <img src={HBox} alt='new' className="hb-b"/>
             <div className="box-hero">
             <h1 className="logo-txt logo-txt2 text-6xl">
-              Revolutionizing the crypto world with Shaiba
+              Revolutionizing the crypto world with shAIba
              
             </h1>
             <div className="d-flex gap-4 hero-btns">
@@ -27,6 +27,7 @@ function Hero() {
               </div>
             </div>
           </div>
+          <div className="col-md-1"></div>
           <div className="col-md-4">
           <div className="hero-box">
             <img src={Light} alt="" className="lig-1"/>

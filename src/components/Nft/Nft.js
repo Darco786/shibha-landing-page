@@ -9,12 +9,12 @@ function Nft() {
   return (
     <div className='nft-sec'>
 
-        <div className='container'>
+        <div className='container-fluid pt-left'>
             <div className='row'>
                 <div className='col-md-3'>
                     <div className='nft'>
                         <img src={Nft1} alt=""/>
-                        <div className='d-flex gap-5 btn-box'>
+                        <div className='d-flex btn-box'>
                             <a href="/" className='nft-btn'>Ai sniper bot</a>
                             <img src={Line} alt="" className='line-b'/>
                         </div>
@@ -24,8 +24,8 @@ function Nft() {
                 <div className='col-md-3'>
                 <div className='nft'>
                 <img src={Nft2} alt=""/>
-                <div className='d-flex gap-5 btn-box'>
-                            <a href="/" className='nft-btn'>Ai sniper bot</a>
+                <div className='d-flex  btn-box' style={{gap:'2.5rem'}}>
+                            <a href="/" className='nft-btn'>Market research bot</a>
                             <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
                         </div>
                     </div>
@@ -34,8 +34,8 @@ function Nft() {
                 <div className='col-md-3'>
                 <div className='nft'>
                 <img src={Nfts} alt="" style={{padding: '15px'}}/>
-                <div className='d-flex gap-5 btn-box'>
-                            <a href="/" className='nft-btn'>Ai sniper bot</a>
+                <div className='d-flex  btn-box'style={{gap:'3rem'}} >
+                            <a href="/" className='nft-btn'>Shaiba Chatbot</a>
                             <img src={Line} alt="" className='line-b' style={{marginLeft:'5px' ,marginTop:'5px'}}/>
                         </div>
                     </div>
@@ -44,8 +44,8 @@ function Nft() {
                 <div className='col-md-3'>
                 <div className='nft'>
                 <img src={Nft3} alt="" style={{padding: '10px'}}/>
-                <div className='d-flex gap-5 btn-box'>
-                            <a href="/" className='nft-btn'>Ai sniper bot</a>
+                <div className='d-flex  btn-box' style={{gap:'10px'}}>
+                            <a href="/" className='nft-btn'>Personal companion bot</a>
                             <img src={Line} alt="" className='line-b' style={{marginLeft:'11px' ,marginTop:'6px'}}/>
                         </div>
                     </div>
