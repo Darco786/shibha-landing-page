@@ -43,6 +43,49 @@
 
 
 
+
+h1.logo-txt2 {
+  color: white;
+  /* font-family: sans-serif;
+  font-weight: 800; */
+  position: relative;
+  /* font-size: 100px; */
+  padding: 10px;
+}
+ h1.logo-txt2::before, .wrapper h1.logo-txt2::after {
+  padding: 10px;
+  color: white;
+  content: "Revolutionizing the crypto world with shAIba";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background:   #ffffff00;
+  overflow: hidden;
+  top: 0;
+}
+ h1.logo-txt2::before {
+  left: 3px;
+  text-shadow: -2px 0 red;
+  animation-name: glitch-animation-1;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: reverse-alternate;
+}
+ h1.logo-txt2::after {
+  left: -3px;
+  text-shadow: -2px 0 blue;
+  animation-name: glitch-animation-2;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: reverse-alternate;
+}
+
+
+
 @keyframes glitch-animation-1 {
   0% {
     clip: rect(131px, 350px, 72px, 30px);

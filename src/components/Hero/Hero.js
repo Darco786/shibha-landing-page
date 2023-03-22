@@ -12,13 +12,13 @@ function Hero() {
  <img src={Mask} alt="" className="lig-3"/>
       <div className="container-fluid pt-left">
         <div className="row align-items-center">
-          <div className="col-md-7 " data-aos="fade-right"
-     data-aos-offset="300">
+          <div className="col-md-7 " >
           <img src={Light} alt="" className="lig-2"/>
             <img src={HBox} alt='new' className="hb-b"/>
             <div className="box-hero">
             <h1 className="logo-txt logo-txt2 text-6xl">
-              Revolutionizing the crypto world with shAIba
+              Revolutionizing the crypto world with 
+              shAIba
              
             </h1>
             {/* <h1 className="logo-txt logo-txt2 text-6xl">
@@ -37,8 +37,7 @@ function Hero() {
             </div>
           </div>
           <div className="col-md-1"></div>
-          <div className="col-md-4" data-aos="fade-left"
-     data-aos-offset="300">
+          <div className="col-md-4">
           <div className="hero-box">
             <img src={Light} alt="" className="lig-1"/>
             <p>
