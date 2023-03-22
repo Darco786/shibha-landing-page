@@ -370,13 +370,13 @@ display: none;
 
   .logo-bx {
     position: relative;
-    margin-left: -165px;
- gap: 4px !important;
-    margin-top: -37px;
+    margin-left: -130px;
+    gap: 0px !important;
+    margin-top: -24px;
 }
 .logo-bx img{
   width: auto;
-  height: 20px;
+  height: 25px;
 }
 .pt-10{
   padding-top: 2rem;
