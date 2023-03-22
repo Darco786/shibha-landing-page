@@ -272,7 +272,9 @@ a {
     padding: 8rem 13rem 8rem 2rem;
   
   }
- 
+  .com {
+    margin-left: 8%;
+  }
 
   .hero-btns {
     position: absolute;
