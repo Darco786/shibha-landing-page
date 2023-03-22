@@ -8,8 +8,8 @@ function Mobfooter() {
   return (
     <section className='footer pt-10'>
         <div className='container'>
-        <div className='text-white d-flex align-items-center gap-4 margin-auto justify-content-center'>
-            <img src={Logo} alt=""/>
+        <div className='text-white d-flex align-items-center  margin-auto justify-content-center'>
+            <img src={Logo} alt="" style={{height:'45px'}}/>
             <p className='logo-text'>shAIba</p>
         </div>
 <div className='foot-social d-flex gap-2 justify-content-center'>

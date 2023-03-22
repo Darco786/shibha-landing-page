@@ -290,13 +290,15 @@ a {
     position: relative;
     z-index: 2;
     
-    padding: 6rem 1rem 3rem 2rem;
+    padding: 7rem 1rem 3rem 2rem;
+    margin-bottom: 2rem;
+
   }
   
   .hero-btns {
     position: absolute;
-    margin-left: 7%;
-    margin-top: -34%;
+    margin-left: -3%;
+    margin-top: -6%;
     z-index: 8;
 }
 
@@ -313,7 +315,7 @@ a {
   padding-bottom: 2rem;
 }
 .com{
-  margin-left: 13%;
+  margin-left: 8%;
 }
 
 .chat-btn {
@@ -380,4 +382,10 @@ font-size: 18px;
 .footer{
   display: block;
 }
+
+
+.buy {
+
+  text-align: center;
+  padding: 10px 30px;}
 }
