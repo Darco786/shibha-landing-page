@@ -260,12 +260,19 @@ a {
 .footer{
   display: none;
 }
+@media (min-width:1800px) {
+  .container-fluid{
+    max-width: 1800px !important;
+  }
+  
+}
 
 @media (min-width:1700px) {
   .box-hero{
     padding: 8rem 13rem 8rem 2rem;
   
   }
+ 
 
   .hero-btns {
     position: absolute;
