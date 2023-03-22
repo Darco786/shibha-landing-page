@@ -25,7 +25,7 @@ function Mobfooter() {
 <div className='text-center'>
 <img src={Light} alt="" className="lig"/>
 <div>
-    <p className='text-white'>© 2023 | SHAIBA |s All Rights Reserved</p>
+    <p className='text-white'>© 2023 | shAIba|s All Rights Reserved</p>
 </div>
 </div>
         </div>
