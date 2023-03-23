@@ -319,9 +319,9 @@ a {
   }
   
   .hero-btns {
-    position: absolute;
-    margin-left: -3%;
-    margin-top: -6%;
+    position: relative;
+    margin-left: 3%;
+    margin-top: 15%;
     z-index: 8;
 }
 
