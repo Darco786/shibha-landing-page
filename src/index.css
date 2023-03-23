@@ -307,13 +307,13 @@ a {
   }
   .box-hero {
     background-image: url(../src/assets/mob/mob-hero.png);
-    width: 100%;
+    width: 104%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     z-index: 2;
-    height: 520px;
-    padding: 7rem 1rem 3rem 2rem;
+    height: 518px;
+    padding: 7rem 1rem 3rem 1rem;
     margin-bottom: 2rem;
 
   }
@@ -365,7 +365,7 @@ display: none;
   font-family: "Orbitron";
   font-style: normal;
   font-weight: 600;
-  font-size: 12px;}
+  font-size: 14px;}
 
   .logo-bx {
     position: relative;
@@ -375,7 +375,7 @@ display: none;
 }
 .logo-bx img{
   width: auto;
-  height: 25px;
+  height: 35px;
 }
 .pt-10{
   padding-top: 2rem;
